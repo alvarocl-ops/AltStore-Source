@@ -40,7 +40,7 @@
           "downloadURL": "http://crespo.ct.ws/Intelligence.ipa",
           "size": 9700000,
           "version": "1.0",
-          "buildVersion": null,
+          "buildVersion": 0,
           "date": "2026-04-23T14:00:00+02:00",
           "localizedDescription": "Prueba la primera versión beta de Spark, una app de asistente con soporte para varios proveedores de IA.\nIncluye funciones como:\n\n-Interacción conversacional con modelos de IA\n-Generación de imágenes a partir de texto\n-Análisis y uso de imágenes desde la galería y la cámara\n-Importación y procesamiento de archivos\n-Soporte para distintos proveedores de IA y selección de modelo\n-Configuración básica de parámetros de uso\n\nEsta es una versión beta y puede contener errores, comportamientos inesperados o funciones incompletas.\n\nGracias por probarla y compartir feedback.",
           "minOSVersion": "26.0"
