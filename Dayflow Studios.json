@@ -10,38 +10,38 @@
     "com.dayflow.spark"
   ],
   "apps": [
-{
-  "name": "Spark",
-  "bundleIdentifier": "com.dayflow.spark",
-  "developerName": "Álvaro Crespo López",
-  "subtitle": "Lo más avanzado en IA multimodal y más",
-  "localizedDescription": "Spark es una aplicación de asistencia basada en inteligencia artificial diseñada para ofrecer una experiencia flexible y multimodal.",
-  "iconURL": "https://i.imgur.com/52v47P1.png",
-  "tintColor": "#fcfc09",
-  "category": "utilities",
-  "screenshots": [
-    "https://i.imgur.com/wocRudb.jpeg",
-    "https://i.imgur.com/tgMUxkA.jpeg",
-    "https://i.imgur.com/OijgjKs.jpeg",
-    "https://i.imgur.com/wHXq4dO.jpeg"
-  ],
-  "versions": [
     {
-      "downloadURL": "https://crespo.ct.ws/Spark%201.0.2.ipa",
-      "size": 8800000,
-      "version": "1.0.2",
-      "buildVersion": "2",
-      "date": "2026-04-23T23:00:00+02:00",
-      "localizedDescription": "Esta actualización introduce una nueva identidad visual para la app.",
-      "minOSVersion": "26.0"
+      "name": "Spark",
+      "bundleIdentifier": "com.dayflow.spark",
+      "developerName": "Álvaro Crespo López",
+      "subtitle": "Lo más avanzado en IA multimodal y más",
+      "localizedDescription": "Spark es una aplicación de asistencia basada en inteligencia artificial diseñada para ofrecer una experiencia flexible y multimodal.",
+      "iconURL": "https://i.imgur.com/52v47P1.png",
+      "tintColor": "#fcfc09",
+      "category": "utilities",
+      "screenshots": [
+        "https://i.imgur.com/wocRudb.jpeg",
+        "https://i.imgur.com/tgMUxkA.jpeg",
+        "https://i.imgur.com/OijgjKs.jpeg",
+        "https://i.imgur.com/wHXq4dO.jpeg"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://crespo.ct.ws/Spark%201.0.2.ipa",
+          "size": 8800000,
+          "version": "1.0.2",
+          "buildVersion": "2",
+          "date": "2026-04-23T23:00:00+02:00",
+          "localizedDescription": "Esta actualización introduce una nueva identidad visual para la app.",
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
     }
-  ],
-  "appPermissions": {
-    "entitlements": [],
-    "privacy": {}
-  },
-  "patreon": {}
-}
   ],
   "news": []
 }
