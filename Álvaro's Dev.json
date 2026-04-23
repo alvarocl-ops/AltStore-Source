@@ -55,15 +55,6 @@
   ],
   "news": [
     {
-      "title": "Intelligence se transforma en Spark",
-      "identifier": "news_6uwpp73xjl",
-      "caption": "Nueva identidad para Spark",
-      "date": "2026-04-24T01:30",
-      "tintColor": "#ffc000",
-      "imageURL": "",
-      "notify": true,
-      "url": "",
-      "appID": "com.dayflow.spark"
     }
   ]
 }
