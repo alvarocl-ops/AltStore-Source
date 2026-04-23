@@ -1,5 +1,6 @@
 {
   "name": "Álvaro's Dev",
+  "identifier": "com.alvaroclok.repo",
   "subtitle": "Aquí podréis encontrar todas mis apps.",
   "description": "Esta es la fuente donde publicaré todos mis proyectos. Podrás encontrar mas información en mi GitHub bajo el usuario @alvaroclok.",
   "iconURL": "https://lh3.googleusercontent.com/a/ACg8ocLX8JE2Dg5aKJUj5TLx8QSjvZ2unuo14VNWJdrPLzAMsQ79lxuS=s576-c-no",
@@ -13,7 +14,6 @@
     {
       "name": "Intelligence",
       "bundleIdentifier": "com.crespo.intelligence",
-      "marketplaceID": "",
       "developerName": "Álvaro Crespo López",
       "subtitle": "Lo más avanzado en IA multimodal y más",
       "localizedDescription": "Intelligence es una aplicación de asistencia basada en inteligencia artificial diseñada para ofrecer una experiencia flexible y multimodal. Permite interactuar con distintos modelos y proveedores de IA mediante conversación natural, generación de imágenes, análisis de contenido visual y gestión de archivos, integrando fuentes como texto, fotos y cámara dentro de un mismo flujo de trabajo.\n\nLa app está orientada a productividad, exploración creativa y asistencia contextual, con soporte para configuración de modelos, personalización básica y selección del proveedor de IA según las necesidades del usuario.",
@@ -28,20 +28,19 @@
       ],
       "versions": [
         {
-          "downloadURL": "http://crespo.ct.ws/Intelligence.ipa",
-          "size": 9700000,
           "version": "1.0",
           "buildVersion": "1",
           "date": "2026-04-23T16:00:00+02:00",
           "localizedDescription": "Prueba la primera versión beta de Intelligence, una app de asistente con soporte para varios proveedores de IA.\nIncluye funciones como:\n\n-Interacción conversacional con modelos de IA\n-Generación de imágenes a partir de texto\n-Análisis y uso de imágenes desde la galería y la cámara\n-Importación y procesamiento de archivos\n-Soporte para distintos proveedores de IA y selección de modelo\n-Configuración básica de parámetros de uso\n\nEsta es una versión beta y puede contener errores, comportamientos inesperados o funciones incompletas.\n\nGracias por probarla y compartir feedback.",
+          "downloadURL": "http://crespo.ct.ws/Intelligence.ipa",
+          "size": 9700000,
           "minOSVersion": "26.0"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []
