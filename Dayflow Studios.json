@@ -10,48 +10,38 @@
     "com.dayflow.spark"
   ],
   "apps": [
+{
+  "name": "Spark",
+  "bundleIdentifier": "com.dayflow.spark",
+  "developerName": "Álvaro Crespo López",
+  "subtitle": "Lo más avanzado en IA multimodal y más",
+  "localizedDescription": "Spark es una aplicación de asistencia basada en inteligencia artificial diseñada para ofrecer una experiencia flexible y multimodal.",
+  "iconURL": "https://i.imgur.com/52v47P1.png",
+  "tintColor": "#fcfc09",
+  "category": "utilities",
+  "screenshots": [
+    "https://i.imgur.com/wocRudb.jpeg",
+    "https://i.imgur.com/tgMUxkA.jpeg",
+    "https://i.imgur.com/OijgjKs.jpeg",
+    "https://i.imgur.com/wHXq4dO.jpeg"
+  ],
+  "versions": [
     {
-      "name": "Spark",
-      "bundleIdentifier": "com.dayflow.spark",
-      "marketplaceID": "",
-      "developerName": "Álvaro Crespo López",
-      "subtitle": "Lo más avanzado en IA multimodal y más",
-      "localizedDescription": "Spark es una aplicación de asistencia basada en inteligencia artificial diseñada para ofrecer una experiencia flexible y multimodal. Permite interactuar con distintos modelos y proveedores de IA mediante conversación natural, generación de imágenes, análisis de contenido visual y gestión de archivos, integrando fuentes como texto, fotos y cámara dentro de un mismo flujo de trabajo.\n\nLa app está orientada a productividad, exploración creativa y asistencia contextual, con soporte para configuración de modelos, personalización básica y selección del proveedor de IA según las necesidades del usuario.",
-      "iconURL": "https://i.imgur.com/52v47P1.png",
-      "tintColor": "#fcfc09",
-      "category": "utilities",
-      "screenshots": [
-        "https://i.imgur.com/wocRudb.jpeg",
-        "https://i.imgur.com/tgMUxkA.jpeg",
-        "https://i.imgur.com/OijgjKs.jpeg",
-        "https://i.imgur.com/wHXq4dO.jpeg"
-      ],
-      "versions": [
-        {
-          "downloadURL": "https://crespo.ct.ws/Spark%201.0.2.ipa",
-          "size": 8800000,
-          "version": "1.0.2",
-          "buildVersion": "2",
-          "date": "2026-04-23T23:00:00+02:00",
-          "localizedDescription": "Esta actualización introduce una nueva identidad visual para la app. Es posible que algunos elementos de la interfaz presenten pequeños problemas de legibilidad mientras seguimos ajustando el nuevo diseño.\n\nEsta versión no añade nuevas funciones; solo actualiza la marca y corrige algunos errores menores.\n\nEsta es una versión beta y puede contener errores, comportamientos inesperados o funciones incompletas.\n\nGracias por probarla y compartir feedback.",
-          "minOSVersion": "26.0"
-        },
-        {
-          "downloadURL": "http://crespo.ct.ws/Intelligence.ipa",
-          "size": 9700000,
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-04-23T14:00:00+02:00",
-          "localizedDescription": "Prueba la primera versión beta de Spark, una app de asistente con soporte para varios proveedores de IA.\nIncluye funciones como:\n\n-Interacción conversacional con modelos de IA\n-Generación de imágenes a partir de texto\n-Análisis y uso de imágenes desde la galería y la cámara\n-Importación y procesamiento de archivos\n-Soporte para distintos proveedores de IA y selección de modelo\n-Configuración básica de parámetros de uso\n\nEsta es una versión beta y puede contener errores, comportamientos inesperados o funciones incompletas.\n\nGracias por probarla y compartir feedback.",
-          "minOSVersion": "26.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "patreon": {}
+      "downloadURL": "https://crespo.ct.ws/Spark%201.0.2.ipa",
+      "size": 8800000,
+      "version": "1.0.2",
+      "buildVersion": "2",
+      "date": "2026-04-23T23:00:00+02:00",
+      "localizedDescription": "Esta actualización introduce una nueva identidad visual para la app.",
+      "minOSVersion": "26.0"
     }
+  ],
+  "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+  },
+  "patreon": {}
+}
   ],
   "news": []
 }
