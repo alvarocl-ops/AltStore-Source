@@ -3,8 +3,6 @@
   "subtitle": "Apps que simplifican tu vida",
   "description": "En Dayflow Studios creamos aplicaciones pensadas para acompañarte desde que te despiertas hasta que te acuestas. Nuestro objetivo es simple: desarrollar herramientas digitales útiles, intuitivas y con un diseño impecable que hagan tu rutina mucho más fácil.",
   "iconURL": "https://i.imgur.com/fxTwzYu.png",
-  "website": "",
-  "patreonURL": "",
   "tintColor": "#ff9300",
   "featuredApps": [
     "com.dayflow.spark"
