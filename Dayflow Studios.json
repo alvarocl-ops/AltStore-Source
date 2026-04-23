@@ -31,7 +31,7 @@
           "downloadURL": "https://crespo.ct.ws/Spark%201.0.2.ipa",
           "size": 8800000,
           "version": "1.0.2",
-          "buildVersion": "",
+          "buildVersion": "1",
           "date": "2026-04-23T23:00:00+02:00",
           "localizedDescription": "Esta actualización introduce una nueva identidad visual para la app. Es posible que algunos elementos de la interfaz presenten pequeños problemas de legibilidad mientras seguimos ajustando el nuevo diseño.\n\nEsta versión no añade nuevas funciones; solo actualiza la marca y corrige algunos errores menores.\n\nEsta es una versión beta y puede contener errores, comportamientos inesperados o funciones incompletas.\n\nGracias por probarla y compartir feedback.",
           "minOSVersion": "26.0"
