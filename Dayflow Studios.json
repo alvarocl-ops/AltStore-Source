@@ -27,7 +27,7 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://crespo.ct.ws/Spark%201.0.2.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/alvarocl-ops/AltStore-Source/refs/heads/main/App.ipa",
           "size": 8800000,
           "version": "1.0.2",
           "buildVersion": "2",
